@@ -6,8 +6,8 @@ $mail->SMTPDebug = 0;
 $mail->SMTPAuth = TRUE;
 $mail->SMTPSecure = "tls";
 $mail->Port     = 587;  
-$mail->Username = "notification@cakrawalasejahtera.com";
-$mail->Password = "qw1209po2014";
+$mail->Username = "";
+$mail->Password = "";
 $mail->Host     = "smtp.gmail.com";
 $mail->Mailer   = "smtp";
 
